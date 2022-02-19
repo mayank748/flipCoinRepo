@@ -1,4 +1,5 @@
 #! /bin/bash -x
+
 randomValue=0
 IS_HEAD=0
 IS_TAIL=1
